@@ -1,0 +1,45 @@
+{
+  "name": "FloatChat-AI Development",
+  "image": "mcr.microsoft.com/devcontainers/python:3.13",
+
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "20"
+    }
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "dsznajder.es7-react-js-snippets",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "editor.formatOnSave": true
+      }
+    }
+  },
+
+  "forwardPorts": [5000, 3000],
+  "portsAttributes": {
+    "5000": {
+      "label": "Backend API",
+      "onAutoForward": "notify"
+    },
+    "3000": {
+      "label": "React Frontend",
+      "onAutoForward": "openBrowser"
+    }
+  },
+
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+
+  "remoteEnv": {
+    "FLASK_ENV": "development",
+    "PYTHONDONTWRITEBYTECODE": "1"
+  }
+}

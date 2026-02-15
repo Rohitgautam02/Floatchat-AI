@@ -1,0 +1,56 @@
+{
+  "documents": [
+    "ARGO Float 2902746 is located in the Bay of Bengal. Last known position: 19.25\u00b0N, 138.26\u00b0E. First profile recorded on 2018-05-24. Most recent profile on 2022-01-03. Total profiles collected: 133. Temperature range: 1.91\u00b0C to 31.57\u00b0C. Salinity range: 34.03 to 35.15 PSU. Depth range: -0 to 2026 dbar.",
+    "ARGO Float 2902747 is located in the Bay of Bengal. Last known position: 24.43\u00b0N, 140.18\u00b0E. First profile recorded on 2018-05-20. Most recent profile on 2021-09-11. Total profiles collected: 121. Temperature range: 1.94\u00b0C to 31.86\u00b0C. Salinity range: 33.83 to 40.49 PSU. Depth range: -0 to 2014 dbar.",
+    "ARGO Float 2902718 is located in the Bay of Bengal. Last known position: 19.89\u00b0N, 123.67\u00b0E. First profile recorded on 2018-08-22. Most recent profile on 2021-10-27. Total profiles collected: 282. Temperature range: 2.04\u00b0C to 31.14\u00b0C. Salinity range: 33.67 to 35.11 PSU. Depth range: 2 to 2008 dbar.",
+    "ARGO Float 2902719 is located in the Bay of Bengal. Last known position: 19.01\u00b0N, 132.38\u00b0E. First profile recorded on 2018-05-16. Most recent profile on 2022-09-06. Total profiles collected: 267. Temperature range: 2.00\u00b0C to 31.08\u00b0C. Salinity range: 33.99 to 35.12 PSU. Depth range: -0 to 2005 dbar.",
+    "ARGO Float 2902743 is located in the Bay of Bengal. Last known position: 7.98\u00b0N, 113.24\u00b0E. First profile recorded on 2017-11-27. Most recent profile on 2018-07-26. Total profiles collected: 64. Temperature range: 2.83\u00b0C to 30.76\u00b0C. Salinity range: 32.59 to 34.64 PSU. Depth range: 2 to 1506 dbar.",
+    "ARGO Float 2902756 is located in the Bay of Bengal. Last known position: 19.90\u00b0N, 129.86\u00b0E. First profile recorded on 2019-03-25. Most recent profile on 2020-12-02. Total profiles collected: 184. Temperature range: 3.45\u00b0C to 31.49\u00b0C. Salinity range: 34.03 to 36.03 PSU. Depth range: -1 to 1052 dbar.",
+    "ARGO Float 2902086 is located in the Bay of Bengal. Last known position: 18.32\u00b0N, 84.77\u00b0E. First profile recorded on 2012-12-30. Most recent profile on 2016-02-16. Total profiles collected: 243. Temperature range: 2.61\u00b0C to 31.28\u00b0C. Salinity range: 29.53 to 35.39 PSU. Depth range: 0 to 2009 dbar.",
+    "ARGO Float 2902150 is located in the Equatorial Indian Ocean. Last known position: 2.16\u00b0N, 87.07\u00b0E. First profile recorded on 2014-08-20. Most recent profile on 2020-04-20. Total profiles collected: 200. Temperature range: -2.00\u00b0C to 31.27\u00b0C. Salinity range: 14.77 to 38.81 PSU. Depth range: 0 to 2008 dbar.",
+    "ARGO Float 2902196 is located in the Bay of Bengal. Last known position: 12.13\u00b0N, 82.65\u00b0E. First profile recorded on 2016-01-28. Most recent profile on 2018-04-14. Total profiles collected: 167. Temperature range: 2.56\u00b0C to 31.47\u00b0C. Salinity range: 29.31 to 35.10 PSU. Depth range: 2 to 2002 dbar.",
+    "ARGO Float 2902197 is located in the Bay of Bengal. Last known position: 15.10\u00b0N, 84.55\u00b0E. First profile recorded on 2016-01-29. Most recent profile on 2018-10-06. Total profiles collected: 204. Temperature range: 2.52\u00b0C to 31.57\u00b0C. Salinity range: 27.02 to 35.15 PSU. Depth range: 2 to 2001 dbar."
+  ],
+  "metadata": [
+    {
+      "wmo_id": "2902746",
+      "region": "Bay of Bengal"
+    },
+    {
+      "wmo_id": "2902747",
+      "region": "Bay of Bengal"
+    },
+    {
+      "wmo_id": "2902718",
+      "region": "Bay of Bengal"
+    },
+    {
+      "wmo_id": "2902719",
+      "region": "Bay of Bengal"
+    },
+    {
+      "wmo_id": "2902743",
+      "region": "Bay of Bengal"
+    },
+    {
+      "wmo_id": "2902756",
+      "region": "Bay of Bengal"
+    },
+    {
+      "wmo_id": "2902086",
+      "region": "Bay of Bengal"
+    },
+    {
+      "wmo_id": "2902150",
+      "region": "Equatorial Indian Ocean"
+    },
+    {
+      "wmo_id": "2902196",
+      "region": "Bay of Bengal"
+    },
+    {
+      "wmo_id": "2902197",
+      "region": "Bay of Bengal"
+    }
+  ]
+}
